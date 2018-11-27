@@ -1,3 +1,3 @@
-# Autumate Boring Stugg Solution
+# Autumate Boring Stuff Solution
 Install anaconda.
 Open Spider
